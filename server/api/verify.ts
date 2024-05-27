@@ -1,6 +1,6 @@
 export default eventHandler(() => {
   return {
     name: 'Sink',
-    url: 'https://sink.266003.xyz',
+    url: 'https://sink.cool',
   }
 })
