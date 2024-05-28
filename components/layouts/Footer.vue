@@ -59,7 +59,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://demo.nginx.com/"
+          href="https://www.nginx.com/"
           target="_blank"
           title="Nginx Plus"
           class="text-gray-400 hover:text-gray-500"
