@@ -1,5 +1,5 @@
 <script setup>
-import { GmailIcon, TelegramIcon, BloggerIcon, XIcon, MastodonIcon, GitHubIcon } from 'vue3-simple-icons'
+import { GmailIcon, TelegramIcon, BloggerIcon, NginxIcon, MastodonIcon, GitHubIcon } from 'vue3-simple-icons'
 
 const email = ref(null)
 onMounted(() => {
@@ -59,13 +59,13 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://x.com/ccbikai"
+          href="https://demo.nginx.com/"
           target="_blank"
-          title="Twitter"
+          title="Nginx Plus"
           class="text-gray-400 hover:text-gray-500"
         >
           <span class="sr-only">Twitter</span>
-          <XIcon
+          <NginxIcon
             class="w-6 h-6"
           />
         </a>
@@ -83,7 +83,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://github.com/ccbikai"
+          href="https://github.com/"
           target="_blank"
           title="GitHub"
           class="text-gray-400 hover:text-gray-500"
