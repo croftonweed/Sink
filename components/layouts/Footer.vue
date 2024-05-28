@@ -19,14 +19,14 @@ onMounted(() => {
         href="https://html.zone"
         target="_blank"
       >
-        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
+        &copy; {{ new Date().getFullYear() }} Products of holyapp.cc
       </a>
       <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
       >
         <a
           ref="email"
-          href="mailto:sink.cool$miantiao.me"
+          href="mailto:support$holyapp.cc"
           title="Email"
           class="text-gray-400 hover:text-gray-500"
         >
@@ -36,7 +36,7 @@ onMounted(() => {
           />
         </a>
         <a
-          href="https://t.me/htmlzone"
+          href="https://t.me/holyapp"
           target="_blank"
           title="Telegram"
           class="text-gray-400 hover:text-gray-500"
